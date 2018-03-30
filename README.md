@@ -43,4 +43,3 @@ Ramachandran plots of the constructed structural models of H061.14- (left) and R
 ## ![fig S4]()
 Structure-based multiple sequence alignment between H061.14- and R2-gp120.
 注意，这里没有模板。
-TEST
